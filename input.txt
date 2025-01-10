@@ -1,0 +1,3 @@
+Node.js streams provide a powerful way to work with data efficiently.
+Streams can handle large amounts of data in chunks.
+This makes them perfect for reading files, processing network requests, and more!
